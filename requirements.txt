@@ -1,0 +1,6 @@
+pandas
+streamlit
+snscrape
+pandas
+pymongo
+dotenv
